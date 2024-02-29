@@ -5,7 +5,7 @@ Currently looking for an internship.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajktor13&theme=dark&hide=html,css,tsql,makefile,plpgsql,tcl&langs_count=6"/>
 
-### I'm familiar with or still learning
+### I'm familiar with and/or still learning
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
@@ -27,13 +27,14 @@ Currently looking for an internship.
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
-### I've worked with
+### I used
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Erlang](https://img.shields.io/static/v1?style=for-the-badge&message=Erlang&color=A90533&logo=Erlang&logoColor=FFFFFF&label=)
 ![Elixir](https://img.shields.io/static/v1?style=for-the-badge&message=Elixir&color=4B275F&logo=Elixir&logoColor=FFFFFF&label=)
 ![Phoenix Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Phoenix+Framework&color=FD4F00&logo=Phoenix+Framework&logoColor=FFFFFF&label=)
+![Haskell](https://img.shields.io/static/v1?style=for-the-badge&message=Haskell&color=5D4F85&logo=Haskell&logoColor=FFFFFF&label=)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/wiktorwilkusz/)
