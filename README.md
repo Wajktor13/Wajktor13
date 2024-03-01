@@ -3,7 +3,7 @@
 <br>
 Currently looking for an internship.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajktor13&theme=dark&hide=html,css,tsql,makefile,plpgsql,tcl&langs_count=5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajktor13&theme=dark&hide=html,css,tsql,makefile,plpgsql,tcl&langs_count=6"/>
 
 ### I'm familiar with and/or still learning
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -40,5 +40,5 @@ Currently looking for an internship.
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/wiktorwilkusz/)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:wiktorwilkusz13@gmail.com)
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=0866FF&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/wiktor.wilkusz/)
-![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=wajktor13&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=wajktor13&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com/users/456161812207894528)
 
