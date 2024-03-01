@@ -40,5 +40,5 @@ Currently looking for an internship.
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/wiktorwilkusz/)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:wiktorwilkusz13@gmail.com)
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=0866FF&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/wiktor.wilkusz/)
-[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=wajktor13&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com/users/456161812207894528)
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com/users/456161812207894528)
 
