@@ -1,7 +1,6 @@
-## Hello World! I'm Wiktor
+## Hello World! I'm Wiktor.
 3rd year Computer Science student (WI / WIEiT) at AGH University of Krakow and aspiring programmer.
 <br>
-Currently looking for an internship.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajktor13&theme=dark&hide=html,css,tsql,makefile,plpgsql,tcl&langs_count=6"/>
 
