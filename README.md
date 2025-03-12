@@ -1,5 +1,5 @@
 ## Hello World! I'm Wiktor.
-3rd year Computer Science student (WI / WIEiT) at AGH University of Krakow and aspiring programmer.
+Bachelor of Computer Science (WI / WIEiT) at AGH University of Krakow and aspiring programmer.
 
 Currently working on [OBELISK](https://github.com/OBELISK-TEAM/OBELISK)
 
