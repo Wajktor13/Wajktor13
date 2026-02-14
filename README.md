@@ -1,14 +1,18 @@
 ## Hello World! I'm Wiktor.
 Bachelor of Computer Science (WI / WIEiT) at AGH University of Krakow and Software Engineer.
 
-Currently working on [OBELISK](https://github.com/OBELISK-TEAM/OBELISK)
+Currently working on open-source Akamai projects, including (but not limited to) Akamai Terraform Provider, Akamai CLI, EdgeGrid. See [Akamai GitHub](https://github.com/akamai).
+
+Also, check out [OBELISK](https://github.com/OBELISK-TEAM/OBELISK)!
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajktor13&theme=dark&hide=html,css,tsql,makefile,plpgsql,tcl&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajktor13&theme=dark&hide=html,css,tsql,makefile,plpgsql,tcl&langs_count=7"/>
 
 ### I'm familiar with and/or still learning
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF&label=)
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=3776AB&logo=Terraform&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
