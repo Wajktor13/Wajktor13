@@ -7,7 +7,7 @@ Also, check out [OBELISK](https://github.com/OBELISK-TEAM/OBELISK)!
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajktor13&theme=dark&hide=html,css,tsql,makefile,plpgsql,tcl&langs_count=7"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wajktor13&theme=dark&hide=plpgsql,html,css,tcl,tsql,makefile&langs_count=7"/>
 
 ### I'm familiar with and/or still learning
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -31,6 +31,7 @@ Also, check out [OBELISK](https://github.com/OBELISK-TEAM/OBELISK)!
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=macOs&color=222222&logo=Macos&logoColor=FCC624&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 ### I used
