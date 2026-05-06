@@ -5,9 +5,7 @@ Currently working on open-source Akamai projects, including (but not limited to)
 
 Also, check out [OBELISK](https://github.com/OBELISK-TEAM/OBELISK)!
 
-<br>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wajktor13&theme=dark&hide=plpgsql,html,css,tcl,tsql,makefile&langs_count=7"/>
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wajktor13&theme=dark&hide=plpgsql,html,css,tcl,tsql,makefile&langs_count=7"/> -->
 
 ### I'm familiar with and/or still learning
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
