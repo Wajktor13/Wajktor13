@@ -3,7 +3,7 @@ Bachelor of Computer Science (WI / WIEiT) at AGH University of Krakow and Softwa
 
 Currently working on open-source Akamai projects, including (but not limited to) Akamai Terraform Provider, Akamai CLI, EdgeGrid. See [Akamai GitHub](https://github.com/akamai).
 
-Also, check out [OBELISK](https://github.com/OBELISK-TEAM/OBELISK)!
+Also, check out my latest project - [OBELISK](https://github.com/OBELISK-TEAM/OBELISK)
 
 <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wajktor13&theme=dark&hide=plpgsql,html,css,tcl,tsql,makefile&langs_count=7"/> -->
 
